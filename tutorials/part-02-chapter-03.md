@@ -1,5 +1,5 @@
 # Chapter 3: Do things: A clojure crash course
-## `Syntax`
+## Syntax
 Clojure's syntax is simple. Like all Lisps, it employs a uniform structure, a handful of special operators, and a constant supply of parentheses delivered from the parenthesis mines hidden beneath the MIT, where Lisp was born
 
 ### Forms
