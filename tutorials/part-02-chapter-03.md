@@ -293,7 +293,7 @@ Vectors aren't the only way to store sequences; Clojure also has lists.
 Lists are similar to vectors in that they're linear collections of values. But there are some differentces. For example, you can't retrieve list elements with `get`. to write a list literal, just insert the elements into parentheses and use a single quote at the beginning:
 
 ```clojure
-`(1 2 3 4)
+(1 2 3 4)
 ; => (1 2 3 4)
 ```
 Notice that when the REPL prints out the list, it doesn't include the quote. We'll come back to why that happens later, in Chapter 7. If you want ot retrieve an element from a list, you can use the `nth` function:
